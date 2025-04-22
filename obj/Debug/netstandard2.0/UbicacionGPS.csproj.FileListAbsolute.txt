@@ -1,0 +1,15 @@
+C:\Users\Shint\Desktop\APPS\UbicacionGPS\UbicacionGPS\bin\Debug\netstandard2.0\UbicacionGPS.deps.json
+C:\Users\Shint\Desktop\APPS\UbicacionGPS\UbicacionGPS\bin\Debug\netstandard2.0\UbicacionGPS.dll
+C:\Users\Shint\Desktop\APPS\UbicacionGPS\UbicacionGPS\bin\Debug\netstandard2.0\ref\UbicacionGPS.dll
+C:\Users\Shint\Desktop\APPS\UbicacionGPS\UbicacionGPS\bin\Debug\netstandard2.0\UbicacionGPS.pdb
+C:\Users\Shint\Desktop\APPS\UbicacionGPS\UbicacionGPS\obj\Debug\netstandard2.0\UbicacionGPS.csproj.AssemblyReference.cache
+C:\Users\Shint\Desktop\APPS\UbicacionGPS\UbicacionGPS\obj\Debug\netstandard2.0\UbicacionGPS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Shint\Desktop\APPS\UbicacionGPS\UbicacionGPS\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Shint\Desktop\APPS\UbicacionGPS\UbicacionGPS\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\Shint\Desktop\APPS\UbicacionGPS\UbicacionGPS\obj\Debug\netstandard2.0\UbicacionGPS.AssemblyInfoInputs.cache
+C:\Users\Shint\Desktop\APPS\UbicacionGPS\UbicacionGPS\obj\Debug\netstandard2.0\UbicacionGPS.AssemblyInfo.cs
+C:\Users\Shint\Desktop\APPS\UbicacionGPS\UbicacionGPS\obj\Debug\netstandard2.0\UbicacionGPS.csproj.CoreCompileInputs.cache
+C:\Users\Shint\Desktop\APPS\UbicacionGPS\UbicacionGPS\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Shint\Desktop\APPS\UbicacionGPS\UbicacionGPS\obj\Debug\netstandard2.0\UbicacionGPS.dll
+C:\Users\Shint\Desktop\APPS\UbicacionGPS\UbicacionGPS\obj\Debug\netstandard2.0\refint\UbicacionGPS.dll
+C:\Users\Shint\Desktop\APPS\UbicacionGPS\UbicacionGPS\obj\Debug\netstandard2.0\UbicacionGPS.pdb

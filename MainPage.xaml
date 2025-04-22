@@ -1,0 +1,74 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="UbicacionGPS.MainPage">
+
+    <StackLayout Padding="20">
+        <!-- Encabezado -->
+        <Frame BackgroundColor="#2196F3" Padding="24" CornerRadius="10">
+            <Label Text="Ubicación GPS Sección-0742"
+                   HorizontalTextAlignment="Center"
+                   TextColor="White"
+                   FontSize="24"
+                   FontAttributes="Bold"/>
+        </Frame>
+        <!-- Label Personalizado -->
+        <Label Text="Victor Antonio Quezada Ramirez" TextColor="White"
+        HorizontalTextAlignment="Center"
+        FontSize="20"
+        FontAttributes="Italic"
+        Margin="0, 20, 0, 0"/>
+        <!-- Imagen -->
+        <Image Source="https://www.iconarchive.com/download/i97935/flat-icons.com/flat/GPS.ico"
+               Aspect="AspectFill"
+               HeightRequest="200"
+               WidthRequest="350"
+               HorizontalOptions="Center"
+               Margin="0, 20, 0, 20"/>
+
+        <!-- Nombre de Ubicación -->
+        <Entry Placeholder="Nombre Ubicación"
+               Keyboard="Text"
+               x:Name="txtNombreUbicacion"
+               FontSize="18"
+               Margin="0, 10, 0, 10"/>
+
+        <!-- Latitud -->
+        <Label Text="Latitud"
+               FontSize="18"
+               Margin="0, 10, 0, 5"/>
+        <Entry Keyboard="Numeric"
+               x:Name="txtLatitud"
+               BackgroundColor="Azure"
+               FontSize="18"
+               Margin="0, 0, 0, 10"/>
+
+        <!-- Longitud -->
+        <Label Text="Longitud"
+               FontSize="18"
+               Margin="0, 10, 0, 5"/>
+        <Entry Keyboard="Numeric"
+               x:Name="txtLongitud"
+               BackgroundColor="Azure"
+               FontSize="18"
+               Margin="0, 0, 0, 20"/>
+
+        <!-- Botón Abrir Ubicación -->
+        <Button Text="Abrir Ubicación"
+                x:Name="btnAbrir"
+                Clicked="btnAbrir_Clicked"
+                FontSize="20"
+                BackgroundColor="#18dcff"
+                BorderWidth="2"
+                BorderColor="YellowGreen"
+                CornerRadius="10"
+                WidthRequest="200"
+                HeightRequest="50"
+                HorizontalOptions="Center"
+                TextColor="White"
+                Margin="0, 10, 0, 20"/>
+
+       
+    </StackLayout>
+
+</ContentPage>
